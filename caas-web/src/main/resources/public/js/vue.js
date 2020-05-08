@@ -1,3 +1,5 @@
+// @source: https://github.com/vuejs/vue/archive/v2.6.10.tar.gz
+// @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&dn=expat.txt Expat
 /*!
  * Vue.js v2.6.10
  * (c) 2014-2019 Evan You
@@ -11942,3 +11944,4 @@
   return Vue;
 
 }));
+// @license-end

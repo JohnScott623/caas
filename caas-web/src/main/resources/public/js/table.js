@@ -1,3 +1,4 @@
+// @license magnet:?xt=urn:btih:c80d50af7d3db9be66a4d0a86db0286e4fd33292&dn=bsd-3-clause.txt BSD 3-Clause
 $(function () {
     function fixTable(container, div_header, div_first_col) {
         var thead = container.querySelector('thead');
@@ -228,3 +229,4 @@ $(function () {
     window.addEventListener('resize', resizeThrottler, false);
 
 });
+// @license-end

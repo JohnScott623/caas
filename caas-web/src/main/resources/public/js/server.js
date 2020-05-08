@@ -1,3 +1,4 @@
+// @license magnet:?xt=urn:btih:c80d50af7d3db9be66a4d0a86db0286e4fd33292&dn=bsd-3-clause.txt BSD 3-Clause
 var print_report = function (softwareName, softwareVersion) {
     var printWindow = window.open('', 'PRINT', 'height=400,width=600');
     printWindow.document.write('<html><head><title>' + document.title + '</title>');
@@ -75,3 +76,4 @@ $(function () {
         window.location = url;
     })
 });
+// @license-end

@@ -1,3 +1,4 @@
+// @license magnet:?xt=urn:btih:c80d50af7d3db9be66a4d0a86db0286e4fd33292&dn=bsd-3-clause.txt BSD 3-Clause
 $(function () {
     var jid, pass, listedServer = false;
     var jidregex = new RegExp("(?:(?:[^@/<>'\"]+)@)(?:[^@<>'\"]+)$");
@@ -74,3 +75,4 @@ $(function () {
         canRequestBeSent();
     });
 });
+// @license-end
